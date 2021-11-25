@@ -372,18 +372,21 @@ ul.nav.navbar-nav {
 	color:#FFFFFF;
 }
 .tab1 .team-img-w3-agile{
-	  background: url(../images/t1.jpg)no-repeat 0px 0px;
+	  background: url(../pic/a1.jpg)no-repeat 0px 0px;
 }
 .tab2 .team-img-w3-agile{
-	  background: url(../images/t2.jpg)no-repeat 0px 0px;
+	  background: url(../pic/a2.jpg)no-repeat 0px 0px;
 }
 .tab3 .team-img-w3-agile{
-	  background: url(../images/t3.jpg)no-repeat 0px 0px;
+	  background: url(../pic/a3.jpg)no-repeat 0px 0px;
 }
 .tab4 .team-img-w3-agile{
-	  background: url(../images/t4.jpg)no-repeat 0px 0px;
+	  background: url(../pic/a4.jpg)no-repeat 0px 0px;
 }
-.tab1 .team-img-w3-agile,.tab2 .team-img-w3-agile,.tab3 .team-img-w3-agile,.tab4 .team-img-w3-agile{
+.tab5 .team-img-w3-agile{
+	background: url(../pic/a5.jpg)no-repeat 0px 0px;
+}
+.tab1 .team-img-w3-agile,.tab2 .team-img-w3-agile,.tab3 .team-img-w3-agile,.tab4 .team-img-w3-agile,.tab5 .team-img-w3-agile{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
