@@ -361,6 +361,26 @@ ul.nav.navbar-nav {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+.blink {
+	animation: blinker 0.8s linear infinite;
+	color: #d17a17;
+	font-size: 1.1em;
+	font-weight: bold;
+	font-family: sans-serif;
+  }
+  @keyframes blinker {
+	50% {
+	  opacity: 0;
+	}
+  }
+  .blink-one {
+	animation: blinker-one 1s linear infinite;
+  }
+  @keyframes blinker-one {
+	0% {
+	  opacity: 0;
+	}
+  }
 /*-- //portfolio --*/
 /*-- team --*/
 .team{
